@@ -1,2 +1,2 @@
-# The-Collector
+# The_Collector
 Have a great day!
